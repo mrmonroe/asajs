@@ -1,0 +1,27 @@
+{
+  "name": "asajs",
+  "version": "1.0.0",
+  "description": "A simpler Javascript framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmonroe/asajs.git"
+  },
+  "keywords": [
+    "framework",
+    "cli",
+    "mvc"
+  ],
+  "author": "Matthew Monroe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrmonroe/asajs/issues"
+  },
+  "homepage": "https://github.com/mrmonroe/asajs#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
